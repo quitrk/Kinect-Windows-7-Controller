@@ -1,0 +1,27 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:CustomVoiceCommand.cs" caret="0" fromTop="0" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="0" fromTop="0" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="826" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

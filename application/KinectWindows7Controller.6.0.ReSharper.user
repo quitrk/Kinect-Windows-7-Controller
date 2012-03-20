@@ -1,0 +1,177 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="262" fromTop="2" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:app.config" caret="952" fromTop="16" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="10374" fromTop="8" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:CustomVoiceCommand.cs" caret="952" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22583" fromTop="31" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22583" fromTop="34" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22583" fromTop="29" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21105" fromTop="42" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21105" fromTop="36" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="6683" fromTop="21" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="7306" fromTop="32" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="6072" fromTop="10" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="4835" fromTop="15" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="4206" fromTop="4" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="2951" fromTop="30" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="2330" fromTop="31" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="3575" fromTop="33" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="5461" fromTop="30" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="1932" fromTop="18" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="799" fromTop="10" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml" caret="262" fromTop="2" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="4737" fromTop="12" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="1756" fromTop="16" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="11900" fromTop="38" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22040" fromTop="43" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="18096" fromTop="13" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21427" fromTop="42" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21095" fromTop="27" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21344" fromTop="25" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22325" fromTop="28" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="22524" fromTop="34" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21000" fromTop="20" />
+      <File id="F2EF752E-0121-4932-A0E1-16B94241FE77/f:MainWindow.xaml.cs" caret="21001" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="else" priority="31" />
+      <Item value="if" priority="351" />
+      <Item value="browseNewCustomCommandPath" priority="31" />
+      <Item value="Process`0" priority="95" />
+      <Item value="choices" priority="31" />
+      <Item value="runtime" priority="31" />
+      <Item value="this" priority="447" />
+      <Item value="true" priority="31" />
+      <Item value="false" priority="31" />
+      <Item value="prop" priority="63" />
+      <Item value="bool" priority="30" />
+      <Item value="private" priority="63" />
+      <Item value="LoadGrammarCompletedEventArgs`0" priority="31" />
+      <Item value="void" priority="31" />
+      <Item value="Application`0" priority="31" />
+      <Item value="App`0" priority="31" />
+      <Item value="Properties" priority="186" />
+      <Item value="Settings`0" priority="161" />
+      <Item value="string" priority="284" />
+      <Item value="var" priority="191" />
+      <Item value="voiceCommands" priority="383" />
+      <Item value="saveBtn" priority="31" />
+      <Item value="StringSplitOptions`0" priority="191" />
+      <Item value="new" priority="95" />
+      <Item value="internalSeparator" priority="127" />
+      <Item value="externalSeparator" priority="63" />
+      <Item value="customVoiceCommands" priority="122" />
+      <Item value="foreach" priority="95" />
+      <Item value="CustomVoiceCommand" priority="28" />
+      <Item value="List&lt;CustomVoiceCommand&gt;" priority="28" />
+      <Item value="SearchDirectionHint`0" priority="31" />
+      <Item value="customVoiceCommand" priority="90" />
+      <Item value="commandPath" priority="31" />
+      <Item value="commandSound" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.SpeechRecognizedEventArgs">
+      <Item value="Result" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.RecognitionResult">
+      <Item value="Text" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="27" />
+      <Item value="StartsWith`0" priority="55" />
+      <Item value="Remove`0" priority="53" />
+      <Item value="Split`0" priority="162" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.Choices">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.SpeechRecognitionEngine">
+      <Item value="SpeechDetected" priority="27" />
+      <Item value="SpeechHypothesized" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.SpeechDetectedEventArgs">
+      <Item value="AudioPosition" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Speech.Recognition.SpeechHypothesizedEventArgs">
+      <Item value="Result" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KinectWindows7Controller.MainWindow">
+      <Item value="IsMouseTracked" priority="53" />
+      <Item value="mouseLeftBtn" priority="53" />
+      <Item value="mouseRightBtn" priority="55" />
+      <Item value="mouseDoubleClick" priority="55" />
+      <Item value="minimiseWindow" priority="55" />
+      <Item value="maximiseWindow" priority="55" />
+      <Item value="closeWindow" priority="55" />
+      <Item value="scrollUp" priority="55" />
+      <Item value="scrollDown" priority="55" />
+      <Item value="back" priority="55" />
+      <Item value="LoadPreferences`0" priority="54" />
+      <Item value="OnWindowLoaded`0" priority="26" />
+      <Item value="SavePreferences`0" priority="26" />
+      <Item value="CustomVoiceCommands" priority="132" />
+      <Item value="customCommands" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@KinectWindows7Controller.App">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@KinectWindows7Controller.Properties.Settings">
+      <Item value="Default" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="107" />
+      <Item value="Empty" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KinectWindows7Controller.Properties.Settings">
+      <Item value="VoiceCommands" priority="53" />
+      <Item value="Save`0" priority="26" />
+      <Item value="CustomVoiceCommands" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="None" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="27" />
+      <Item value="Count" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemsControl">
+      <Item value="ItemsSource" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KinectWindows7Controller.CustomVoiceCommand">
+      <Item value="CommandPath" priority="26" />
+      <Item value="CommandSound" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
